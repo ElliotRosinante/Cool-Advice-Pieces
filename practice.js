@@ -6,7 +6,7 @@ There is a planet... in a galaxy far far away. It is exactly like our planet, bu
 
 Your task is to create a method, that can sort an array the way it would be sorted on Twisted-3-7.
 
-7 Examples from a friend from Twisted-3-7:
+Examples from a friend from Twisted-3-7:
 
 [1,2,3,4,5,6,7,8,9] -> [1,2,7,4,5,6,3,8,9]
 [12,13,14] -> [12,14,13]
